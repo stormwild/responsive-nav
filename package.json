@@ -1,0 +1,30 @@
+{
+  "name": "responsive-nav",
+  "version": "0.0.0",
+  "description": "Responsive Navigation",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./bin/build.sh",
+    "watch": "./bin/watch.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stormwild/responsive-nav.git"
+  },
+  "keywords": [
+    "responsive",
+    "navigation",
+    "css"
+  ],
+  "author": "Alexander R. Torrijos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stormwild/responsive-nav/issues"
+  },
+  "homepage": "https://github.com/stormwild/responsive-nav#readme",
+  "devDependencies": {
+    "node-sass": "^4.1.1",
+    "nodemon": "^1.11.0"
+  }
+}

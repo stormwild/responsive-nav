@@ -1,0 +1,1 @@
+nodemon -e scss --watch assets/scss/** -x 'npm run build'
