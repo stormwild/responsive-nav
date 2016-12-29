@@ -1,0 +1,42 @@
+.nav {
+    border: 1px solid $nav_border_color;
+    
+    ul {
+        background-color: $list_bg_color;
+        
+        margin: 0;
+        padding: 0;
+        
+        list-style: none;
+        
+        @include clearfix;
+        
+        li {
+            background-color: $li_bg_color;
+            
+            display: block;
+            
+            float: left;
+            
+            a {
+                background-color: $link_bg_color;
+                
+                display: block;
+                
+                padding: .5rem 1.5rem;
+                
+                text-decoration: none;
+                
+                /* lvha */
+                &:link {
+                    color: $link_color;
+                }
+                
+                &:hover {
+                    background-color: $link_bg_color_hover;
+                    color: $link_color_hover;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+/* Nav Colors
+-------------------------------------------------- */
+
+/* Nav */
+$nav_border_color: #ccc;
+
+/* List */
+$list_bg_color: #efcc00;
+
+/* List Item */
+$li_bg_color: #ef00cc;
+
+/* Link */
+$link_color: #444;
+$link_bg_color: #ccef00;
+$link_color_hover: darken(#fff, 10%);
+$link_bg_color_hover: $link_color;

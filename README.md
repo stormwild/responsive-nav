@@ -26,5 +26,10 @@ Ref: [Watch & Compile your Sass with npm](https://medium.com/@brianhan/watch-com
 
 ## Resources
 
-[Pure CSS toggle-based Responsive Unlimited Levels Menu](http://aamirafridi.com/css/pure-css-responsive-menu)
-[Responsive Menu Concepts](https://css-tricks.com/responsive-menu-concepts/)
+- [Pure CSS toggle-based Responsive Unlimited Levels Menu](http://aamirafridi.com/css/pure-css-responsive-menu)
+- [Responsive Menu Concepts](https://css-tricks.com/responsive-menu-concepts/)
+
+### Sass
+
+- [Clearfix Sass Mixin](https://codepad.co/snippet/0nG352MA)
+- [CSS Tip: A Better Clearfix with Sass](http://blog.teamtreehouse.com/a-better-clearfix-with-sass)
